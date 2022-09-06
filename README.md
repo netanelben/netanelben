@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello all :)
+
+my name is Nate and i am a frontend developer also music composer and producer also digital artist, you can check my work on: www.anphibiam.com
 
 <!--
 **netanelben/netanelben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
